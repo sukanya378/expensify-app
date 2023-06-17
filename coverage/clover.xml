@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686988160270" clover="3.2.0">
+  <project timestamp="1686988160270" name="All files">
+    <metrics statements="111" coveredstatements="97" conditionals="55" coveredconditionals="53" methods="54" coveredmethods="38" elements="220" coveredelements="188" complexity="0" loc="111" ncloc="111" packages="6" files="17" classes="17">
+      <package name="actions">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="8" coveredmethods="8"/>
+        <file name="expensesActions.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\actions\expensesActions.js">
+          <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+          <line num="4" count="3" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="22" count="3" type="stmt"/>
+          <line num="29" count="3" type="stmt"/>
+        </file>
+        <file name="filtersActions.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\actions\filtersActions.js">
+          <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+          <line num="2" count="3" type="cond" truecount="1" falsecount="0"/>
+          <line num="7" count="3" type="stmt"/>
+          <line num="11" count="3" type="stmt"/>
+          <line num="15" count="3" type="stmt"/>
+          <line num="20" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="components">
+        <metrics statements="66" coveredstatements="52" conditionals="26" coveredconditionals="24" methods="39" coveredmethods="23"/>
+        <file name="AddExpensePage.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\AddExpensePage.js">
+          <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="13" count="2" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+        </file>
+        <file name="EditExpensePage.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\EditExpensePage.js">
+          <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="3"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="17" count="3" type="stmt"/>
+          <line num="32" count="1" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="38" count="1" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+        </file>
+        <file name="ExpenseDashboardPage.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\ExpenseDashboardPage.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+        </file>
+        <file name="ExpenseList.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\ExpenseList.js">
+          <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="11" count="10" type="stmt"/>
+          <line num="18" count="2" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+        </file>
+        <file name="ExpenseListFilter.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\ExpenseListFilter.js">
+          <metrics statements="21" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="13" coveredmethods="6"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="8" count="10" type="stmt"/>
+          <line num="9" count="10" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="13" count="10" type="stmt"/>
+          <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+          <line num="16" count="10" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="20" count="10" type="stmt"/>
+          <line num="34" count="1" type="stmt"/>
+          <line num="35" count="1" type="stmt"/>
+          <line num="45" count="2" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="51" count="2" type="stmt"/>
+          <line num="52" count="0" type="stmt"/>
+          <line num="53" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="55" count="0" type="stmt"/>
+          <line num="56" count="0" type="stmt"/>
+          <line num="57" count="0" type="stmt"/>
+        </file>
+        <file name="ExpenseListItem.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\ExpenseListItem.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="4" count="3" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+        </file>
+        <file name="Header.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\Header.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+        </file>
+        <file name="NotFound.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\NotFound.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+        </file>
+        <file name="expenseForm.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\components\expenseForm.js">
+          <metrics statements="15" coveredstatements="14" conditionals="22" coveredconditionals="21" methods="7" coveredmethods="6"/>
+          <line num="8" count="10" type="stmt"/>
+          <line num="9" count="10" type="stmt"/>
+          <line num="22" count="4" type="stmt"/>
+          <line num="23" count="4" type="cond" truecount="2" falsecount="0"/>
+          <line num="24" count="2" type="cond" truecount="4" falsecount="0"/>
+          <line num="26" count="2" type="stmt"/>
+          <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="34" count="2" type="stmt"/>
+          <line num="35" count="2" type="stmt"/>
+          <line num="36" count="2" type="cond" truecount="4" falsecount="0"/>
+          <line num="38" count="1" type="stmt"/>
+          <line num="39" count="1" type="stmt"/>
+          <line num="49" count="1" type="stmt"/>
+          <line num="55" count="17" type="stmt"/>
+          <line num="89" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="reducers">
+        <metrics statements="21" coveredstatements="21" conditionals="14" coveredconditionals="14" methods="4" coveredmethods="4"/>
+        <file name="expensesReducers.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\reducers\expensesReducers.js">
+          <metrics statements="12" coveredstatements="12" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+          <line num="5" count="6" type="cond" truecount="4" falsecount="0"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="12" count="10" type="stmt"/>
+          <line num="13" count="10" type="cond" truecount="2" falsecount="0"/>
+          <line num="14" count="10" type="stmt"/>
+          <line num="16" count="2" type="stmt"/>
+          <line num="20" count="10" type="stmt"/>
+          <line num="21" count="2" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+        </file>
+        <file name="filtersReducers.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\reducers\filtersReducers.js">
+          <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="10" count="1" type="cond" truecount="1" falsecount="0"/>
+          <line num="11" count="6" type="cond" truecount="6" falsecount="0"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="selectors">
+        <metrics statements="11" coveredstatements="11" conditionals="9" coveredconditionals="9" methods="3" coveredmethods="3"/>
+        <file name="expenses.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\selectors\expenses.js">
+          <metrics statements="11" coveredstatements="11" conditionals="9" coveredconditionals="9" methods="3" coveredmethods="3"/>
+          <line num="3" count="3" type="stmt"/>
+          <line num="4" count="5" type="stmt"/>
+          <line num="5" count="25" type="stmt"/>
+          <line num="6" count="25" type="cond" truecount="2" falsecount="0"/>
+          <line num="7" count="25" type="cond" truecount="2" falsecount="0"/>
+          <line num="8" count="25" type="stmt"/>
+          <line num="10" count="25" type="cond" truecount="3" falsecount="0"/>
+          <line num="13" count="5" type="stmt"/>
+          <line num="14" count="20" type="cond" truecount="2" falsecount="0"/>
+          <line num="15" count="12" type="stmt"/>
+          <line num="17" count="5" type="stmt"/>
+        </file>
+      </package>
+      <package name="tests">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="setupTests.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\tests\setupTests.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="14" type="stmt"/>
+          <line num="8" count="14" type="stmt"/>
+        </file>
+      </package>
+      <package name="tests.fixtures">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="expenses.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\tests\fixtures\expenses.js">
+          <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        </file>
+        <file name="filters.js" path="C:\Users\sukan\Documents\Sukanya Projects\expensify_app\src\tests\fixtures\filters.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

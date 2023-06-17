@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Expense dashboard page  1`] = `
+<div>
+  <Connect(ExpenseListFilter) />
+  <Connect(ExpenseList)
+    expenses={
+      Array [
+        Object {
+          "amount": 9000,
+          "createdAt": 1686126588493,
+          "description": "rent",
+          "id": "1",
+        },
+        Object {
+          "amount": 200,
+          "createdAt": 1686226488493,
+          "description": "rent",
+          "id": "2",
+        },
+        Object {
+          "amount": 10000,
+          "createdAt": 1586226588493,
+          "description": "Coffee",
+          "id": "3",
+        },
+        Object {
+          "amount": 800,
+          "createdAt": 1626226588493,
+          "description": "Water Bill",
+          "id": "4",
+        },
+        Object {
+          "amount": 1500,
+          "createdAt": 1686226588403,
+          "description": "Gas Bill",
+          "id": "5",
+        },
+      ]
+    }
+  />
+</div>
+`;
